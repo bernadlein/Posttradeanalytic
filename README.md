@@ -1,4 +1,4 @@
-
+# BERNADUS BOLI
 # Post-Trade Analytics Portfolio
 
 A professional-grade portfolio project demonstrating **data pipelines, post-trade analytics, data quality checks, and user-facing reporting**. 
